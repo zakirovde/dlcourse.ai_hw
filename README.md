@@ -1,2 +1,2 @@
 # dlcourse.ai_hw
-done home tasks.
+almost done, except RL (TBD)
